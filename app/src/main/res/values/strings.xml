@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SUMA DE DOS NUMEROS</string>
+    <string name="datoUno">ESCRIBE EL PRIMER NUMERO</string>
+    <string name="datoDos">ESCRIBE EL SEGUNDO NUMERO</string>
+    <string name="boton">PRESIONA PARA SUMAR</string>
+
+</resources>
